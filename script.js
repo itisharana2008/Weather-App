@@ -1,4 +1,4 @@
-const API_KEY = "edc8e4a9d0cd46b9803162142252711";
+const API_KEY = ;
 
 async function getWeather() {
     const city = document.getElementById("cityInput").value;
@@ -34,3 +34,4 @@ async function getWeather() {
         errorBox.textContent = "❌ City not found. Try again!";
     }
 }
+
