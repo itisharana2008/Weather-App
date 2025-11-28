@@ -15,12 +15,6 @@ This app allows users to:
 
 * * *
 
-## 🚀 Demo Preview
-
-> _(Optional: Add screenshot or deployed link here)_
-
-* * *
-
 * * *
 
 ## 📂 Project Structure
